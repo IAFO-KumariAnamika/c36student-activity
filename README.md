@@ -1,1 +1,2 @@
-# c36student-activity
+# synchronousBallMovement
+Ball moving synchronously
